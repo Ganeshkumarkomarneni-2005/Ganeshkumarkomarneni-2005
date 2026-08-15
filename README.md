@@ -9,24 +9,29 @@ I'm a B.Tech Computer Science student at Vignan's Foundation for Science, Techno
 💬 Ask me about: Python, SQL, Pandas, Data Pipelines, Scikit-learn, and Data Visualization.
 🛠️ Tech Stack & Tools
 💻 Languages
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 
-Show Image Show Image Show Image Show Image
 
 📊 Data Analysis & Visualization
-
-Show Image Show Image Show Image Show Image
+https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
+https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
 
 🧠 Machine Learning
-
-Show Image
+[https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ⚙️ Data Engineering & Cloud
-
-Show Image Show Image Show Image
+https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 
 🧰 Tools
-
-Show Image Show Image
+https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white
+https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white
 
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ganeshkumarkomarneni-2005&show_icons=true&theme=radium&hide_border=true" alt="Ganesh's GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganeshkumarkomarneni-2005&theme=radium&hide_border=true" alt="Ganesh's GitHub Streak" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshkumarkomarneni-2005&layout=compact&theme=radium&hide_border=true" alt="Top Languages" /> </p>
